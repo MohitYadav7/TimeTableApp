@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeTableIT</string>
+    <string name="first_class_timing">8:20 &#8211; 9:15</string>
+    <string name="tac">TAC</string>
+</resources>
